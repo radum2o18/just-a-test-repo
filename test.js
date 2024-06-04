@@ -1,5 +1,1 @@
-console.log('initial commit')
-console.log('fix commit')
-console.log('docs commit')
-console.log('test commit')
-console.log('another test commit')
+console.log('test.js loaded')
